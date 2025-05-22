@@ -4,7 +4,7 @@ Associate at Teleperformance with 18 months of experience handling North America
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sparsh2310) 
-[![Resume:](https://img.shields.io/badge/Resume)](https://docs.google.com/document/d/1CIDWXFhIDmPbogIz2aoQ4ICxUN2jSBqQ)
+[![Resume:](https://img.shields.io/badge/resume-8A2BE2)](https://docs.google.com/document/d/1CIDWXFhIDmPbogIz2aoQ4ICxUN2jSBqQ)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
