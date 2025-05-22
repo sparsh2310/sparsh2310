@@ -3,7 +3,7 @@ Hi 👋, I'm Sparsh Choudhary passionate Data Analysis
 Associate at Teleperformance with 18 months of experience handling North America seller issues via email. Skilled in Python, Excel, SQL, Power BI. Expertise in data transformation, reporting, automation and analytics. Recognized for improving data quality and reporting accuracy in complex transition and analytics projects. 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sparsh2310) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sparsh-choudhary-780a98296/) 
 [![Resume:](https://img.shields.io/badge/resume-8A2BE2)](https://docs.google.com/document/d/1CIDWXFhIDmPbogIz2aoQ4ICxUN2jSBqQ)
 
 # 💻 Tech Stack:
