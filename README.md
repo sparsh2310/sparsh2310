@@ -1,16 +1,14 @@
-## Hi there 👋
+# 💫 About Me:
+Hi 👋, I'm Sparsh Choudhary passionate Data Analysis
+Associate at Teleperformance with 18 months of experience handling North America seller issues via email. Skilled in Python, Excel, SQL, Power BI. Expertise in data transformation, reporting, automation and analytics. Recognized for improving data quality and reporting accuracy in complex transition and analytics projects. 
 
-<!--
-**sparsh2310/sparsh2310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sparsh2310) 
+[![Resume:](https://docs.google.com/document/d/1CIDWXFhIDmPbogIz2aoQ4ICxUN2jSBqQ/edit?tab=t.0)]
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![SQL](https://img.shields.io/badge/sql-3670A0?style=for-the-badge&logo=sql&logoColor=ffdd54)
+![PowerBI](https://img.shields.io/badge/PowerBI-%23323330.svg?style=for-the-badge&logo=PowerBI&logoColor=%23F7DF1E) 
+![Excel](https://img.shields.io/badge/Excel-%23E34F26.svg?style=for-the-badge&logo=Excel&logoColor=white) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
