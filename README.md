@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Sparsh Choudhary passionate Data Analysis
+Hi 👋, I'm Sparsh Choudhary passionate Data Analyst
 Associate at Teleperformance with 18 months of experience handling North America seller issues via email. Skilled in Python, Excel, SQL, Power BI. Expertise in data transformation, reporting, automation and analytics. Recognized for improving data quality and reporting accuracy in complex transition and analytics projects. 
 
 ## 🌐 Socials:
