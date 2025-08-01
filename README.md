@@ -10,5 +10,5 @@ Associate at Teleperformance with 18 months of experience handling North America
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![SQL](https://img.shields.io/badge/MySQL-%23800080.svg?style=for-the-badge&logo=mysql&logoColor=ffffff&color=800080)
 ![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=https://yourhost.com/Power-BI-Logo.png&logoColor=black) 
-![Excel](https://img.shields.io/badge/Excel-%23E34F26.svg?style=for-the-badge&logo=Excel&logoColor=white) 
+![Excel](https://img.shields.io/badge/Excel-107C41?style=for-the-badge&logo=Excel&logoColor=white) 
 
