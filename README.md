@@ -4,7 +4,7 @@ Associate at Teleperformance with 18 months of experience handling North America
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sparsh-choudhary-780a98296/) 
-[![Resume:](https://docs.google.com/document/d/1-r1qHj7It4iOjbsq1yPaGJ9zlaT1XBNb/edit#heading=h.j0lxbwqfggph)
+[![Resume:](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://docs.google.com/document/d/1-r1qHj7It4iOjbsq1yPaGJ9zlaT1XBNb/edit#heading=h.j0lxbwqfggph)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
