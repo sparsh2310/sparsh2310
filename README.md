@@ -8,7 +8,7 @@ Associate at Teleperformance with 18 months of experience handling North America
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![SQL](https://img.shields.io/badge/mysql-3670A0?style=for-the-badge&logo=mysql&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/MySQL-%23800080.svg?style=for-the-badge&logo=mysql&logoColor=white&color=800080)
 ![PowerBI](https://img.shields.io/badge/PowerBI-%23323330.svg?style=for-the-badge&logo=PowerBI&logoColor=%23F7DF1E) 
 ![Excel](https://img.shields.io/badge/Excel-%23E34F26.svg?style=for-the-badge&logo=Excel&logoColor=white) 
 
