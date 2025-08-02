@@ -40,6 +40,7 @@ Associate at Teleperformance with 18 months of experience handling North America
 - 📈 **Domino's Sales Analysis** – Detailed analysis of Domino's sales data & KPIs.
 - 🛏️ **Road Accident Analysis** – Explored accident patterns and causes through data visualization.
 - 📈 **E-commerce Data Analysis with Python & Pandas** – Extracted insights from raw transactional data.
+- ☕ **Cafe Coffee Day Data Analysis** – Performed sales & customer insights analysis for CCD.
 - 📈 **IPL Analysis on PowerBI** – Interactive dashboards depicting IPL team & player statistics.
 - 📈 **IBM-Customer Relationship Management Data Analysis** – Analyzed CRM data for customer insights & segmentation.
 - 🏥 **Hospital Emergency Room Analysis Dashboard** – Built interactive dashboards to visualize ER patient data & trends.
