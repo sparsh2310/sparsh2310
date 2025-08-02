@@ -37,15 +37,45 @@ Associate at Teleperformance with 18 months of experience handling North America
 ---
 
 ## 🚀 Projects
-- 📊 **Sales Dashboard using Power BI** – Visualized sales performance with dynamic filters & KPIs.
+- 📈 **Walmart Sales Data Analysis** – Analyzed Walmart sales trends & performance metrics.
+- 📈 **Blinkit Sales Analysis** – Sales and customer behavior analysis for Blinkit platform.
+- 📈 **Domino's Sales Analysis** – Detailed analysis of Domino's sales data & KPIs.
+- 🛏️ **Road Accident Analysis** – Explored accident patterns and causes through data visualization.
 - 📈 **E-commerce Data Analysis with Python & Pandas** – Extracted insights from raw transactional data.
-- 📉 **SQL Reporting Project** – Designed complex queries and created summary reports.
+- 📈 **IPL Analysis on PowerBI** – Interactive dashboards depicting IPL team & player statistics.
+- 📈 **IBM-Customer Relationship Management Data Analysis** – Analyzed CRM data for customer insights & segmentation.
+- 🏥 **Hospital Emergency Room Analysis Dashboard** – Built interactive dashboards to visualize ER patient data & trends.
+- 📉 **HR dept Analysis** – Analyzed HR department metrics & trends using data visualization.
+- 📖 **Library Data Analysis** – Data exploration & visualization project analyzing library usage patterns.
+- 📈 **Madhav Sales_Analysis** – In-depth sales data analysis & dashboard creation for Madhav Enterprises.
+- 📊 **USA Super Store Analysis** – Sales performance analysis using Power BI dashboards.
+- 📊 **Retail Sales Analysis** – Visualized sales performance with dynamic filters & KPIs.
+- 🍕 **Pizza Sales Data Analysis** – Explored sales trends & patterns in pizza chain data.
+- 🎆 **Diwali Sales Analysis** – Python-based EDA on Diwali sales dataset.
+- 📱 **iPhone Sales Analysis** – Data-driven insights on iPhone sales using Python libraries.
+- 📃 **Credit Card Data Analysis** – Investigated credit card transactions and usage patterns.
+- 🎵 **Spotify Data Analysis** – Analyzed user listening trends & top tracks on Spotify.
+- 🌐 **Netflix Data Analysis** – Explored viewing patterns & content popularity on Netflix.
+- 💳 **Financial Loan Data Analysis** – Performed EDA to understand loan default patterns.
+- 📦 **Amazon Sales Analysis on Power BI** – Built dynamic dashboards analyzing Amazon sales data.
+
+---
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sparsh2310&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sparsh2310&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
 ## ✉️ Contact Me
 - **Email:** sparsh23100@gmail.com
 - **LinkedIn DM**: [Click Here](https://www.linkedin.com/in/sparsh-choudhary-780a98296/)
+- **Instagram DM**: [Click Here](https://www.instagram.com/mai_sparsh_007/)
 
 ---
 
