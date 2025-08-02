@@ -61,7 +61,7 @@ Associate at Teleperformance with 18 months of experience handling North America
 ---
 
 ## ✉️ Contact Me
-- **Email:** sparshchoudhary2018@gmail.com
+- **Email:**  [Click Here](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
 - **LinkedIn DM**: [Click Here](https://www.linkedin.com/in/sparsh-choudhary-780a98296/)
 - **Instagram DM**: [Click Here](https://www.instagram.com/mai_sparsh_007/)
 
