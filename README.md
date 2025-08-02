@@ -3,7 +3,7 @@ Hello "👋" I'm Sparsh Choudhary passionate Data Analyst.
 Associate at Teleperformance with 18 months of experience handling North American sellers. Skilled in MySQL, Python, PostgreSQL, MSSQL, Tableau, Power BI, Google Looker Studio and Excel. Expertise in data Interpretation, transformation, visualization, reporting and analytics. Recognized for improving data quality and reporting accuracy in complex transition and analytics projects. 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=https://raw.githubusercontent.com/yourusername/yourrepo/main/linkedin.png&logoColor=white)](https://www.linkedin.com/in/sparsh-choudhary-780a98296/)
+https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/LinkedIn_logo_initials.png
 [![Resume:](https://img.shields.io/badge/Resume-%23800080.svg?logo=Resume&logoColor=white)](https://docs.google.com/document/d/1-r1qHj7It4iOjbsq1yPaGJ9zlaT1XBNb/edit#heading=h.j0lxbwqfggph)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100069500773781)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sparsh2310)
