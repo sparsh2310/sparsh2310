@@ -30,13 +30,6 @@ Associate at Teleperformance with 18 months of experience handling North America
 
 ---
 
-## 📈 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=sparsh2310&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sparsh2310&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sparsh2310&theme=dark&hide_border=false&layout=compact)
-
----
-
 ## 🚀 Projects
 - 📈 **Walmart Sales Data Analysis** – Analyzed Walmart sales trends & performance metrics.
 - 📈 **Blinkit Sales Analysis** – Sales and customer behavior analysis for Blinkit platform.
@@ -60,16 +53,6 @@ Associate at Teleperformance with 18 months of experience handling North America
 - 💳 **Financial Loan Data Analysis** – Performed EDA to understand loan default patterns.
 - 📦 **Amazon Sales Analysis on Power BI** – Built dynamic dashboards analyzing Amazon sales data.
 
----
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sparsh2310&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sparsh2310&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
