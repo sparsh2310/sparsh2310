@@ -1,7 +1,6 @@
 ## 👋 Hello, I'm Sparsh Choudhary
 
 A passionate Data Analyst specializing in Data Extraction (ETL), Transformation, Visualization, and Business Insights Generation.
-
 With 18+ months of professional experience as an Associate at Teleperformance, I have supported North American Amazon Seller processes, ensuring data-driven reporting, improving analytics accuracy, and streamlining process efficiencies.
 
 ## 💡 Technical Skills
@@ -46,9 +45,8 @@ Continuously enhancing my skills in Advanced Analytics, Data Engineering Concept
 
 Exploring the latest BI Tools and Cloud Data Platforms to stay ahead in delivering scalable data solutions.
 
-## "ETL to Insights — Transforming Raw Data into Business Actions."
+# "ETL to Insights — Transforming Raw Data into Business Actions."
 
---
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sparsh-choudhary-780a98296/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
