@@ -1,51 +1,34 @@
 ## 👋 Hello, I'm Sparsh Choudhary
-
 A passionate Data Analyst specializing in Data Extraction (ETL), Transformation, Visualization, and Business Insights Generation.
 With 18+ months of professional experience as an Associate at Teleperformance, I have supported North American Amazon Seller processes, ensuring data-driven reporting, improving analytics accuracy, and streamlining process efficiencies.
 
 ## 💡 Technical Skills
-
 SQL (MySQL, PostgreSQL, MSSQL) | Python (Pandas, NumPy, Matplotlib)
-
 ETL Processes: Data Extraction, Cleaning, Transformation, Loading into BI Systems
-
 Power BI, Tableau, Google Looker Studio, Advanced Excel
-
 Report Automation | Dashboard Development | Ad-hoc Analytical Solutions
 
 ## 🔥 Core Competencies
-
 ETL Expertise: Extracting, transforming, and loading data from multiple sources into BI platforms for seamless reporting.
-
 Exploratory Data Analysis (EDA): Identifying key patterns, trends, anomalies, and business insights through deep data exploration.
-
 Skilled in Data Cleaning, Transformation, and Preprocessing for maintaining data quality and reliability.
-
 Developed automated data pipelines and report automation workflows using Python and SQL to enhance efficiency.
-
 Hands-on experience in crafting interactive dashboards and impactful visual stories via Power BI, Tableau, and Looker Studio.
-
 Adept at translating business requirements into analytical frameworks, delivering actionable insights.
-
 Proven track record of collaborating with cross-functional teams to enable data-driven decision-making and continuous process improvements.
 
 ## 🤝 Collaboration & Communication
-
 Effectively partnered with cross-functional teams to deliver business-aligned data insights.
-
 Skilled in presenting analytical findings to non-technical stakeholders in a clear and actionable manner.
 
 ## 🚀 Currently Seeking
-
 I am actively exploring opportunities for Data Analyst / Business Analyst roles, where I can leverage my ETL, EDA, Data Analytics, and Visualization skills to drive business performance through data-centric strategies.
 
 ## 📈 Always Learning
-
 Continuously enhancing my skills in Advanced Analytics, Data Engineering Concepts, and Automation Techniques.
-
 Exploring the latest BI Tools and Cloud Data Platforms to stay ahead in delivering scalable data solutions.
 
-# "ETL to Insights — Transforming Raw Data into Business Actions."
+ "ETL to Insights — Transforming Raw Data into Business Actions."
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sparsh-choudhary-780a98296/)
