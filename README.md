@@ -1,8 +1,49 @@
 # 💫 About Me:
-Hello "👋" I'm Sparsh Choudhary passionate Data Analyst.
-Associate at Teleperformance with 18 months of experience handling North American sellers. Skilled in MySQL, Python, PostgreSQL, MSSQL, Tableau, Power BI, Google Looker Studio and Excel. Expertise in data Interpretation, transformation, visualization, reporting and analytics. Recognized for improving data quality and reporting accuracy in complex transition and analytics projects. 
+👋 Hello, I'm Sparsh Choudhary, a passionate Data Analyst with a strong focus on data extraction, transformation, visualization, and business insights generation.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=800&color=FFFF00&background=000000&center=true&vCenter=true&width=700&height=60&lines=Work+Ethics+-+Character+-+Honesty)](https://git.io/typing-svg)
+I have 18+ months of professional experience as an Associate at Teleperformance, where I worked on North American Amazon Seller processes, ensuring data-driven reporting, analytics accuracy, and process improvements.
+
+💡 Technical Skills:
+
+SQL (MySQL, PostgreSQL, MSSQL) | Python (Pandas, NumPy, Matplotlib)
+
+ETL Processes: Data Extraction, Cleaning, Transformation, and Loading into BI Systems.
+
+Power BI, Tableau, Google Looker Studio, MS Excel (Advanced)
+
+Automation of reports, Dashboard development, and Ad-hoc Analytical tasks.
+
+🔥 Core Strengths (ETL + EDA Focused)
+Proficient in ETL (Extract, Transform, Load) processes: extracting data from diverse sources, cleaning, transforming, and loading it into BI systems for reporting and analysis.
+
+Strong expertise in Exploratory Data Analysis (EDA) to identify patterns, trends, anomalies, and actionable business insights.
+
+Skilled in data cleaning, transformation, and preprocessing to improve data quality and ensure accurate analytics.
+
+Experience in building automated data pipelines and report automation using Python and SQL, enhancing operational efficiency.
+
+Hands-on experience in developing interactive dashboards and visualizations using Power BI, Tableau, and Google Looker Studio for business storytelling.
+
+Adept at translating business requirements into analytical solutions through data-driven insights and actionable recommendations.
+
+Collaborated with cross-functional teams to support data-centric decision-making and continuous process improvement.
+
+🤝 Collaboration & Communication:
+
+Partnered with cross-functional teams to deliver data insights for business decisions.
+
+Communicated complex data findings to non-technical stakeholders effectively.
+
+🚀 Currently Seeking:
+I'm actively looking for Data Analyst / Business Analyst roles, where I can apply my EDA & ETL processes, data analytics, and visualization skills to drive data-centric business strategies.
+
+📈 Always Learning:
+
+Continuously upskilling in advanced analytics, data engineering concepts, and automation techniques.
+
+Exploring modern BI tools & cloud data platforms to enhance analytical capabilities.
+
+“ETL to Insights — Transforming Raw Data into Business Actions.”
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sparsh-choudhary-780a98296/)
