@@ -1,11 +1,11 @@
 # 💫 About Me:
-👋 Hello, I'm Sparsh Choudhary
+## 👋 Hello, I'm Sparsh Choudhary
 
 A passionate Data Analyst specializing in Data Extraction (ETL), Transformation, Visualization, and Business Insights Generation.
 
 With 18+ months of professional experience as an Associate at Teleperformance, I have supported North American Amazon Seller processes, ensuring data-driven reporting, improving analytics accuracy, and streamlining process efficiencies.
 
-💡 Technical Skills
+## 💡 Technical Skills
 
 SQL (MySQL, PostgreSQL, MSSQL) | Python (Pandas, NumPy, Matplotlib)
 
@@ -15,7 +15,7 @@ Power BI, Tableau, Google Looker Studio, Advanced Excel
 
 Report Automation | Dashboard Development | Ad-hoc Analytical Solutions
 
-🔥 Core Competencies
+## 🔥 Core Competencies
 
 ETL Expertise: Extracting, transforming, and loading data from multiple sources into BI platforms for seamless reporting.
 
@@ -31,7 +31,7 @@ Adept at translating business requirements into analytical frameworks, deliverin
 
 Proven track record of collaborating with cross-functional teams to enable data-driven decision-making and continuous process improvements.
 
-🤝 Collaboration & Communication
+## 🤝 Collaboration & Communication
 
 Effectively partnered with cross-functional teams to deliver business-aligned data insights.
 
@@ -41,7 +41,7 @@ Skilled in presenting analytical findings to non-technical stakeholders in a cle
 
 I am actively exploring opportunities for Data Analyst / Business Analyst roles, where I can leverage my ETL, EDA, Data Analytics, and Visualization skills to drive business performance through data-centric strategies.
 
-📈 Always Learning
+## 📈 Always Learning
 
 Continuously enhancing my skills in Advanced Analytics, Data Engineering Concepts, and Automation Techniques.
 
