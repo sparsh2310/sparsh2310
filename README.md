@@ -37,7 +37,7 @@ Effectively partnered with cross-functional teams to deliver business-aligned da
 
 Skilled in presenting analytical findings to non-technical stakeholders in a clear and actionable manner.
 
-🚀 Currently Seeking
+## 🚀 Currently Seeking
 
 I am actively exploring opportunities for Data Analyst / Business Analyst roles, where I can leverage my ETL, EDA, Data Analytics, and Visualization skills to drive business performance through data-centric strategies.
 
@@ -47,7 +47,7 @@ Continuously enhancing my skills in Advanced Analytics, Data Engineering Concept
 
 Exploring the latest BI Tools and Cloud Data Platforms to stay ahead in delivering scalable data solutions.
 
-"ETL to Insights — Transforming Raw Data into Business Actions."
+## "ETL to Insights — Transforming Raw Data into Business Actions."
 
 --
 ## 🌐 Connect with Me
