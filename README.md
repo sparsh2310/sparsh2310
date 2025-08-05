@@ -1,4 +1,3 @@
-# 💫 About Me:
 ## 👋 Hello, I'm Sparsh Choudhary
 
 A passionate Data Analyst specializing in Data Extraction (ETL), Transformation, Visualization, and Business Insights Generation.
