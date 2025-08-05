@@ -1,50 +1,47 @@
 # 💫 About Me:
-👋 Hello, I'm Sparsh Choudhary, a passionate Data Analyst with a strong focus on data extraction, transformation, visualization, and business insights generation.
+👋 Hello, I'm Sparsh Choudhary
+A passionate Data Analyst specializing in Data Extraction (ETL), Transformation, Visualization, and Business Insights Generation.
 
-I have 18+ months of professional experience as an Associate at Teleperformance, where I worked on North American Amazon Seller processes, ensuring data-driven reporting, analytics accuracy, and process improvements.
+With 18+ months of professional experience as an Associate at Teleperformance, I have supported North American Amazon Seller processes, ensuring data-driven reporting, improving analytics accuracy, and streamlining process efficiencies.
 
-💡 Technical Skills:
-
+💡 Technical Skills
 SQL (MySQL, PostgreSQL, MSSQL) | Python (Pandas, NumPy, Matplotlib)
 
-ETL Processes: Data Extraction, Cleaning, Transformation, and Loading into BI Systems.
+ETL Processes: Data Extraction, Cleaning, Transformation, Loading into BI Systems
 
-Power BI, Tableau, Google Looker Studio, MS Excel (Advanced)
+Power BI, Tableau, Google Looker Studio, Advanced Excel
 
-Automation of reports, Dashboard development, and Ad-hoc Analytical tasks.
+Report Automation | Dashboard Development | Ad-hoc Analytical Solutions
 
-🔥 Core Strengths (ETL + EDA Focused)
-Proficient in ETL (Extract, Transform, Load) processes: extracting data from diverse sources, cleaning, transforming, and loading it into BI systems for reporting and analysis.
+🔥 Core Competencies
+ETL Expertise: Extracting, transforming, and loading data from multiple sources into BI platforms for seamless reporting.
 
-Strong expertise in Exploratory Data Analysis (EDA) to identify patterns, trends, anomalies, and actionable business insights.
+Exploratory Data Analysis (EDA): Identifying key patterns, trends, anomalies, and business insights through deep data exploration.
 
-Skilled in data cleaning, transformation, and preprocessing to improve data quality and ensure accurate analytics.
+Skilled in Data Cleaning, Transformation, and Preprocessing for maintaining data quality and reliability.
 
-Experience in building automated data pipelines and report automation using Python and SQL, enhancing operational efficiency.
+Developed automated data pipelines and report automation workflows using Python and SQL to enhance efficiency.
 
-Hands-on experience in developing interactive dashboards and visualizations using Power BI, Tableau, and Google Looker Studio for business storytelling.
+Hands-on experience in crafting interactive dashboards and impactful visual stories via Power BI, Tableau, and Looker Studio.
 
-Adept at translating business requirements into analytical solutions through data-driven insights and actionable recommendations.
+Adept at translating business requirements into analytical frameworks, delivering actionable insights.
 
-Collaborated with cross-functional teams to support data-centric decision-making and continuous process improvement.
+Proven track record of collaborating with cross-functional teams to enable data-driven decision-making and continuous process improvements.
 
-🤝 Collaboration & Communication:
+🤝 Collaboration & Communication
+Effectively partnered with cross-functional teams to deliver business-aligned data insights.
 
-Partnered with cross-functional teams to deliver data insights for business decisions.
+Skilled in presenting analytical findings to non-technical stakeholders in a clear and actionable manner.
 
-Communicated complex data findings to non-technical stakeholders effectively.
+🚀 Currently Seeking
+I am actively exploring opportunities for Data Analyst / Business Analyst roles, where I can leverage my ETL, EDA, Data Analytics, and Visualization skills to drive business performance through data-centric strategies.
 
-🚀 Currently Seeking:
-I'm actively looking for Data Analyst / Business Analyst roles, where I can apply my EDA & ETL processes, data analytics, and visualization skills to drive data-centric business strategies.
+📈 Always Learning
+Continuously enhancing my skills in Advanced Analytics, Data Engineering Concepts, and Automation Techniques.
 
-📈 Always Learning:
+Exploring the latest BI Tools and Cloud Data Platforms to stay ahead in delivering scalable data solutions.
 
-Continuously upskilling in advanced analytics, data engineering concepts, and automation techniques.
-
-Exploring modern BI tools & cloud data platforms to enhance analytical capabilities.
-
-“ETL to Insights — Transforming Raw Data into Business Actions.”
-
+"ETL to Insights — Transforming Raw Data into Business Actions."
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sparsh-choudhary-780a98296/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
