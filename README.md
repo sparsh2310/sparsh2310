@@ -13,7 +13,7 @@ suggest more to wirte for data analyst
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sparsh2310)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100069500773781)
 [![Instagram](https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mai_sparsh_007/)
-[![Resume](https://img.shields.io/badge/Resume-0F9D58?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/1-r1qHj7It4iOjbsq1yPaGJ9zlaT1XBNb/edit#heading=h.j0lxbwqfggph)
+[![Resume](https://img.shields.io/badge/Resume-0F9D58?style=for-the-badge&logo=googledocs&logoColor=white)](https://drive.google.com/file/d/1Po2bq3lINAtep8JL1y8UHplXO5cXtejc/view?usp=sharing)
 
 ---
 
